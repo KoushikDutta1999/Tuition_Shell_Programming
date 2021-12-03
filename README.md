@@ -14,4 +14,3 @@
 - Print the sum of the factorial
 - Print the sum of the digit
 - Use while loop in shell programming
--
