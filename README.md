@@ -1,8 +1,11 @@
 # Shell_Programming
 
+- Pattern 1*2*3*4
 - Calculator using switch case 
 - Print factorial of a number
 - Print fibonacci series
+- Write a shell script to print the fibonacci series using command line argument
+- find the five largest file in the directory
 - Check prime number
 - Print numbers of the digit
 - Print reverse a number
@@ -11,6 +14,10 @@
 - Print the series 2
 - Print the series 3
 - Print the sum of the square numbers
+- Write a shell script that list the file names that start with a vowel
+- Accept a string from the terminal and echo a suitable message if it doesnot have atleast ten characters
 - Print the sum of the factorial
 - Print the sum of the digit
+- write a shell script that'll print "Good Morning" or "Good Afternoon" or "Good Evening" depending upon the time of the system
+- Write a shell script to check if a given name is a valid file or not, and find the total number of words and characters in it
 - Use while loop in shell programming
