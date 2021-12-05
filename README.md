@@ -6,6 +6,7 @@
 - Print fibonacci series
 - Write a shell script to print the fibonacci series using command line argument
 - find the five largest file in the directory
+- Write a shell script to print last twenty commands issued by a particular user
 - Check prime number
 - Print numbers of the digit
 - Print reverse a number
