@@ -1,6 +1,6 @@
 # Shell_Programming
 
-- Pattern 1*2*3*4
+- Pattern 1 * 2 * 3 * 4
 - Calculator using switch case 
 - Print factorial of a number
 - Print fibonacci series
