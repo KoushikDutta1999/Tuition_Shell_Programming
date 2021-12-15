@@ -1,4 +1,4 @@
-# Shell_Programming
+# Tuition_Shell_Programming
 
 - Pattern 1 * 2 * 3 * 4
 - Calculator using switch case 
